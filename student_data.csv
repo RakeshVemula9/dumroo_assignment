@@ -1,0 +1,53 @@
+student_id,student_name,grade,class_section,homework_title,submission_status,submission_date,quiz_name,quiz_score,quiz_date,quiz_scheduled_date
+S001,Aarav Kumar,8,A,Math Chapter 5 Exercise,Submitted,2025-11-10,English Quiz 1,72,2025-11-04,2025-11-19
+S001,Aarav Kumar,8,A,Science Lab Report,Not Submitted,N/A,Math Quiz 1,N/A,2025-11-06,2025-11-19
+S001,Aarav Kumar,8,A,English Essay on Climate Change,Not Submitted,N/A,Math Quiz 1,N/A,2025-11-06,2025-11-19
+S001,Aarav Kumar,8,A,History Project on Independence,Submitted,2025-11-10,English Quiz 1,69,2025-11-04,2025-11-14
+S002,Priya Sharma,8,A,Math Chapter 5 Exercise,Not Submitted,N/A,Science Quiz 2,N/A,2025-11-08,2025-11-19
+S002,Priya Sharma,8,A,Science Lab Report,Submitted,2025-11-08,Science Quiz 2,62,2025-11-08,2025-11-16
+S002,Priya Sharma,8,A,English Essay on Climate Change,Submitted,2025-11-06,English Quiz 1,75,2025-11-04,2025-11-14
+S002,Priya Sharma,8,A,History Project on Independence,Not Submitted,N/A,Science Quiz 2,N/A,2025-11-08,2025-11-14
+S003,Rohan Patel,8,A,Math Chapter 5 Exercise,Submitted,2025-11-05,Math Quiz 1,93,2025-11-06,2025-11-14
+S003,Rohan Patel,8,A,Science Lab Report,Submitted,2025-11-09,Science Quiz 2,98,2025-11-08,2025-11-16
+S003,Rohan Patel,8,A,English Essay on Climate Change,Submitted,2025-11-04,English Quiz 1,62,2025-11-04,2025-11-14
+S003,Rohan Patel,8,A,History Project on Independence,Submitted,2025-11-06,Science Quiz 2,64,2025-11-08,2025-11-16
+S004,Ananya Singh,8,A,Math Chapter 5 Exercise,Submitted,2025-11-05,English Quiz 1,86,2025-11-04,2025-11-16
+S004,Ananya Singh,8,A,Science Lab Report,Submitted,2025-11-04,Math Quiz 1,64,2025-11-06,2025-11-14
+S004,Ananya Singh,8,A,English Essay on Climate Change,Submitted,2025-11-08,Science Quiz 2,98,2025-11-08,2025-11-19
+S004,Ananya Singh,8,A,History Project on Independence,Submitted,2025-11-08,Math Quiz 1,100,2025-11-06,2025-11-19
+S005,Arjun Reddy,8,A,Math Chapter 5 Exercise,Submitted,2025-11-10,Science Quiz 2,63,2025-11-08,2025-11-19
+S005,Arjun Reddy,8,A,Science Lab Report,Submitted,2025-11-06,Math Quiz 1,83,2025-11-06,2025-11-19
+S005,Arjun Reddy,8,A,English Essay on Climate Change,Not Submitted,N/A,English Quiz 1,N/A,2025-11-04,2025-11-14
+S005,Arjun Reddy,8,A,History Project on Independence,Not Submitted,N/A,Science Quiz 2,N/A,2025-11-08,2025-11-14
+S006,Diya Gupta,8,B,Math Chapter 5 Exercise,Submitted,2025-11-04,Math Quiz 1,91,2025-11-06,2025-11-14
+S006,Diya Gupta,8,B,Science Lab Report,Submitted,2025-11-08,Math Quiz 1,78,2025-11-06,2025-11-14
+S006,Diya Gupta,8,B,English Essay on Climate Change,Submitted,2025-11-09,Science Quiz 2,63,2025-11-08,2025-11-19
+S006,Diya Gupta,8,B,History Project on Independence,Submitted,2025-11-04,Science Quiz 2,96,2025-11-08,2025-11-19
+S007,Kabir Mehta,8,B,Math Chapter 5 Exercise,Submitted,2025-11-08,English Quiz 1,84,2025-11-04,2025-11-16
+S007,Kabir Mehta,8,B,Science Lab Report,Submitted,2025-11-04,Science Quiz 2,85,2025-11-08,2025-11-14
+S007,Kabir Mehta,8,B,English Essay on Climate Change,Not Submitted,N/A,Science Quiz 2,N/A,2025-11-08,2025-11-14
+S007,Kabir Mehta,8,B,History Project on Independence,Submitted,2025-11-07,Math Quiz 1,75,2025-11-06,2025-11-19
+S008,Ishaan Verma,8,B,Math Chapter 5 Exercise,Submitted,2025-11-10,Science Quiz 2,64,2025-11-08,2025-11-16
+S008,Ishaan Verma,8,B,Science Lab Report,Not Submitted,N/A,Math Quiz 1,N/A,2025-11-06,2025-11-16
+S008,Ishaan Verma,8,B,English Essay on Climate Change,Submitted,2025-11-04,Science Quiz 2,81,2025-11-08,2025-11-19
+S008,Ishaan Verma,8,B,History Project on Independence,Not Submitted,N/A,English Quiz 1,N/A,2025-11-04,2025-11-14
+S009,Sanya Joshi,9,A,Math Chapter 5 Exercise,Submitted,2025-11-06,Science Quiz 2,96,2025-11-08,2025-11-19
+S009,Sanya Joshi,9,A,Science Lab Report,Submitted,2025-11-04,English Quiz 1,87,2025-11-04,2025-11-14
+S009,Sanya Joshi,9,A,English Essay on Climate Change,Not Submitted,N/A,English Quiz 1,N/A,2025-11-04,2025-11-19
+S009,Sanya Joshi,9,A,History Project on Independence,Not Submitted,N/A,English Quiz 1,N/A,2025-11-04,2025-11-14
+S010,Vihaan Desai,9,A,Math Chapter 5 Exercise,Submitted,2025-11-07,English Quiz 1,89,2025-11-04,2025-11-14
+S010,Vihaan Desai,9,A,Science Lab Report,Submitted,2025-11-06,Math Quiz 1,79,2025-11-06,2025-11-16
+S010,Vihaan Desai,9,A,English Essay on Climate Change,Submitted,2025-11-08,English Quiz 1,86,2025-11-04,2025-11-16
+S010,Vihaan Desai,9,A,History Project on Independence,Not Submitted,N/A,Math Quiz 1,N/A,2025-11-06,2025-11-16
+S011,Aisha Khan,9,A,Math Chapter 5 Exercise,Submitted,2025-11-06,Science Quiz 2,88,2025-11-08,2025-11-19
+S011,Aisha Khan,9,A,Science Lab Report,Submitted,2025-11-09,Math Quiz 1,74,2025-11-06,2025-11-19
+S011,Aisha Khan,9,A,English Essay on Climate Change,Submitted,2025-11-06,Math Quiz 1,94,2025-11-06,2025-11-14
+S011,Aisha Khan,9,A,History Project on Independence,Submitted,2025-11-09,English Quiz 1,94,2025-11-04,2025-11-14
+S012,Raj Malhotra,10,A,Math Chapter 5 Exercise,Submitted,2025-11-07,English Quiz 1,79,2025-11-04,2025-11-19
+S012,Raj Malhotra,10,A,Science Lab Report,Not Submitted,N/A,Science Quiz 2,N/A,2025-11-08,2025-11-16
+S012,Raj Malhotra,10,A,English Essay on Climate Change,Not Submitted,N/A,Math Quiz 1,N/A,2025-11-06,2025-11-19
+S012,Raj Malhotra,10,A,History Project on Independence,Not Submitted,N/A,English Quiz 1,N/A,2025-11-04,2025-11-19
+S013,Meera Iyer,10,A,Math Chapter 5 Exercise,Not Submitted,N/A,Math Quiz 1,N/A,2025-11-06,2025-11-19
+S013,Meera Iyer,10,A,Science Lab Report,Not Submitted,N/A,Science Quiz 2,N/A,2025-11-08,2025-11-19
+S013,Meera Iyer,10,A,English Essay on Climate Change,Submitted,2025-11-08,Math Quiz 1,67,2025-11-06,2025-11-14
+S013,Meera Iyer,10,A,History Project on Independence,Not Submitted,N/A,Math Quiz 1,N/A,2025-11-06,2025-11-14
