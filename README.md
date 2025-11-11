@@ -343,8 +343,20 @@ Enrollment No: BT22CSE028
 
 
 ---
+<img width="1914" height="916" alt="Screenshot 2025-11-12 024726" src="https://github.com/user-attachments/assets/52df4080-6c40-4b38-bf46-5a7b0bcdcdba" />
 
 <div align="center">
+
+
+<img width="1892" height="914" alt="Screenshot 2025-11-12 024733" src="https://github.com/user-attachments/assets/bf6c48a7-edcf-43ea-9a21-df137c0e0273" />
+
+
+
+<img width="1284" height="702" alt="Screenshot 2025-11-12 024819" src="https://github.com/user-attachments/assets/72abcd5a-f2e9-4542-804c-725f681ee2a5" />
+
+
+
+<img width="1324" height="717" alt="Screenshot 2025-11-12 024826" src="https://github.com/user-attachments/assets/cee26e03-b5c8-4e89-a1ba-4f26daa1a25b" />
 
 **⭐ Star this repo if you find it helpful!**
 
